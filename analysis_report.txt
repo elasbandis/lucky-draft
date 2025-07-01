@@ -1,0 +1,270 @@
+Euro Millions Lottery Analysis Report
+Generated on: 2025-06-13 13:14:05
+Data: 1849 draws from 2004 to 2025
+================================================================================
+
+
+==================================================
+BASIC STATISTICS
+==================================================
+
+Main Balls Frequency (1-50):
+Most frequent:
+  23: 210 times (2.3%)
+  19: 207 times (2.2%)
+  44: 207 times (2.2%)
+  21: 206 times (2.2%)
+  42: 204 times (2.2%)
+  50: 204 times (2.2%)
+  29: 203 times (2.2%)
+  10: 200 times (2.2%)
+  20: 198 times (2.1%)
+  17: 198 times (2.1%)
+Least frequent:
+  32: 172 times (1.9%)
+   8: 171 times (1.8%)
+  47: 171 times (1.8%)
+  43: 169 times (1.8%)
+  40: 167 times (1.8%)
+  41: 165 times (1.8%)
+  33: 164 times (1.8%)
+  18: 164 times (1.8%)
+  46: 163 times (1.8%)
+  22: 147 times (1.6%)
+
+Lucky Stars Frequency (1-12):
+Most frequent:
+   3: 369 times (10.0%)
+   2: 365 times (9.9%)
+   8: 355 times (9.6%)
+   9: 342 times (9.2%)
+   6: 332 times (9.0%)
+   7: 331 times (9.0%)
+Least frequent:
+   5: 326 times (8.8%)
+   1: 321 times (8.7%)
+   4: 297 times (8.0%)
+  10: 255 times (6.9%)
+  11: 248 times (6.7%)
+  12: 157 times (4.2%)
+
+==================================================
+GAP ANALYSIS
+==================================================
+Numbers with longest current gaps (overdue):
+Main balls:
+  26:  32 draws ago
+  11:  31 draws ago
+  16:  29 draws ago
+  17:  23 draws ago
+  42:  21 draws ago
+  34:  17 draws ago
+  31:  16 draws ago
+  27:  15 draws ago
+  28:  14 draws ago
+  22:  13 draws ago
+Lucky stars:
+   3:  15 draws ago
+   8:  15 draws ago
+  11:  12 draws ago
+  10:  11 draws ago
+   9:   8 draws ago
+   4:   4 draws ago
+
+==================================================
+PATTERN ANALYSIS
+==================================================
+Pattern frequencies out of 1849 draws:
+  Consecutive pairs: 637 (34.5%)
+  Consecutive triplets: 82 (4.4%)
+  Same decade concentration: 902 (48.8%)
+  All odd: 51 (2.8%)
+  All even: 40 (2.2%)
+  Majority odd: 912 (49.3%)
+  Majority even: 846 (45.8%)
+
+Sum ranges:
+  100-124: 498 (26.9%)
+  125-149: 586 (31.7%)
+  150-174: 323 (17.5%)
+  175-199: 94 (5.1%)
+  200-224: 8 (0.4%)
+  25-49: 5 (0.3%)
+  50-74: 66 (3.6%)
+  75-99: 269 (14.5%)
+
+==================================================
+HOT/COLD ANALYSIS (Last 50 draws)
+==================================================
+HOT main balls (most frequent in recent draws):
+  41: 10 times (4.0%)
+  33:  9 times (3.6%)
+  29:  9 times (3.6%)
+  49:  9 times (3.6%)
+   3:  8 times (3.2%)
+  24:  8 times (3.2%)
+  35:  8 times (3.2%)
+  47:  8 times (3.2%)
+  10:  7 times (2.8%)
+   9:  7 times (2.8%)
+
+COLD main balls (least frequent in recent draws):
+  25:  3 times (1.2%)
+  40:  3 times (1.2%)
+   2:  2 times (0.8%)
+   5:  2 times (0.8%)
+  17:  2 times (0.8%)
+  11:  2 times (0.8%)
+  16:  2 times (0.8%)
+  26:  2 times (0.8%)
+  32:  2 times (0.8%)
+  34:  1 times (0.4%)
+
+HOT lucky stars:
+   5: 12 times (12.0%)
+   9: 12 times (12.0%)
+  12: 12 times (12.0%)
+   6: 10 times (10.0%)
+   8:  9 times (9.0%)
+   1:  9 times (9.0%)
+
+COLD lucky stars:
+
+======================================================================
+LOTTERY PREDICTIONS FOR NEXT DRAW
+======================================================================
+
+==================================================
+BASIC STATISTICS
+==================================================
+
+Main Balls Frequency (1-50):
+Most frequent:
+  23: 210 times (2.3%)
+  19: 207 times (2.2%)
+  44: 207 times (2.2%)
+  21: 206 times (2.2%)
+  42: 204 times (2.2%)
+  50: 204 times (2.2%)
+  29: 203 times (2.2%)
+  10: 200 times (2.2%)
+  20: 198 times (2.1%)
+  17: 198 times (2.1%)
+Least frequent:
+  32: 172 times (1.9%)
+   8: 171 times (1.8%)
+  47: 171 times (1.8%)
+  43: 169 times (1.8%)
+  40: 167 times (1.8%)
+  41: 165 times (1.8%)
+  33: 164 times (1.8%)
+  18: 164 times (1.8%)
+  46: 163 times (1.8%)
+  22: 147 times (1.6%)
+
+Lucky Stars Frequency (1-12):
+Most frequent:
+   3: 369 times (10.0%)
+   2: 365 times (9.9%)
+   8: 355 times (9.6%)
+   9: 342 times (9.2%)
+   6: 332 times (9.0%)
+   7: 331 times (9.0%)
+Least frequent:
+   5: 326 times (8.8%)
+   1: 321 times (8.7%)
+   4: 297 times (8.0%)
+  10: 255 times (6.9%)
+  11: 248 times (6.7%)
+  12: 157 times (4.2%)
+
+==================================================
+GAP ANALYSIS
+==================================================
+Numbers with longest current gaps (overdue):
+Main balls:
+  26:  32 draws ago
+  11:  31 draws ago
+  16:  29 draws ago
+  17:  23 draws ago
+  42:  21 draws ago
+  34:  17 draws ago
+  31:  16 draws ago
+  27:  15 draws ago
+  28:  14 draws ago
+  22:  13 draws ago
+Lucky stars:
+   3:  15 draws ago
+   8:  15 draws ago
+  11:  12 draws ago
+  10:  11 draws ago
+   9:   8 draws ago
+   4:   4 draws ago
+
+==================================================
+PATTERN ANALYSIS
+==================================================
+Pattern frequencies out of 1849 draws:
+  Consecutive pairs: 637 (34.5%)
+  Consecutive triplets: 82 (4.4%)
+  Same decade concentration: 902 (48.8%)
+  All odd: 51 (2.8%)
+  All even: 40 (2.2%)
+  Majority odd: 912 (49.3%)
+  Majority even: 846 (45.8%)
+
+Sum ranges:
+  100-124: 498 (26.9%)
+  125-149: 586 (31.7%)
+  150-174: 323 (17.5%)
+  175-199: 94 (5.1%)
+  200-224: 8 (0.4%)
+  25-49: 5 (0.3%)
+  50-74: 66 (3.6%)
+  75-99: 269 (14.5%)
+
+==================================================
+HOT/COLD ANALYSIS (Last 50 draws)
+==================================================
+HOT main balls (most frequent in recent draws):
+  41: 10 times (4.0%)
+  33:  9 times (3.6%)
+  29:  9 times (3.6%)
+  49:  9 times (3.6%)
+   3:  8 times (3.2%)
+  24:  8 times (3.2%)
+  35:  8 times (3.2%)
+  47:  8 times (3.2%)
+  10:  7 times (2.8%)
+   9:  7 times (2.8%)
+
+COLD main balls (least frequent in recent draws):
+  25:  3 times (1.2%)
+  40:  3 times (1.2%)
+   2:  2 times (0.8%)
+   5:  2 times (0.8%)
+  17:  2 times (0.8%)
+  11:  2 times (0.8%)
+  16:  2 times (0.8%)
+  26:  2 times (0.8%)
+  32:  2 times (0.8%)
+  34:  1 times (0.4%)
+
+HOT lucky stars:
+   5: 12 times (12.0%)
+   9: 12 times (12.0%)
+  12: 12 times (12.0%)
+   6: 10 times (10.0%)
+   8:  9 times (9.0%)
+   1:  9 times (9.0%)
+
+COLD lucky stars:
+
+🎱 PREDICTION METHODS:
+----------------------------------------------------------------------
+Most Frequent  : [10 - 20 - 21 - 42 - 44] + [ 2 -  8]
+Overdue        : [11 - 28 - 31 - 34 - 42] + [ 3 - 11]
+Hot            : [ 3 - 29 - 35 - 41 - 49] + [ 5 -  6]
+Balanced       : [17 - 19 - 23 - 26 - 29] + [ 2 -  3]
+Pattern Based  : [13 - 15 - 16 - 24 - 37] + [ 1 -  4]
+Ml Weighted    : [ 4 - 18 - 29 - 35 - 47] + [ 8 - 10]
