@@ -1,6 +1,7 @@
 # EuroMillions Lottery Analysis 🎰
 
-An advanced statistical analysis system for EuroMillions lottery data with automated GitHub Pages deployment.
+An advanced statistical analysis system for EuroMillions lottery data.
+
 
 ## Features
 
@@ -19,25 +20,9 @@ An advanced statistical analysis system for EuroMillions lottery data with autom
 5. **Pattern-Based**: Ensures realistic number distributions
 6. **Weighted Random**: Statistical probability-based selection
 
-## GitHub Pages Setup
+## GitHub Pages 
 
-To enable GitHub Pages for automatic report publishing:
-
-### 1. Enable GitHub Pages
-1. Go to your repository Settings
-2. Scroll down to "Pages" section
-3. Under "Source", select "GitHub Actions"
-4. Save the settings
-
-### 2. Repository Permissions
-Ensure your repository has the following permissions in Settings > Actions > General:
-- ✅ "Read and write permissions" for GITHUB_TOKEN
-- ✅ "Allow GitHub Actions to create and approve pull requests"
-
-### 3. First Run
-1. Push this code to your main branch
-2. The GitHub Action will run automatically
-3. Your analysis report will be available at: `https://[username].github.io/[repository-name]/`
+Results: `https://elasbandis.github.io/lucky-draft/`
 
 ## Local Development
 
@@ -67,7 +52,7 @@ python3 generate_html_report.py
 ```
 ├── .github/workflows/
 │   └── lottery-analysis.yml    # GitHub Actions workflow
-├── results/                    # HTML data files by year
+├── results/                    # HTML data files by year from https://www.euro-millions.com/
 │   ├── 2004.html
 │   ├── 2005.html
 │   └── ...
