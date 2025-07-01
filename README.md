@@ -5,11 +5,11 @@ An advanced statistical analysis system for EuroMillions lottery data.
 
 ## Features
 
-- **Comprehensive Analysis**: Analyzes 20+ years of EuroMillions data (2004-2025)
+- **Comprehensive Analysis**: Analyses 20+ years of EuroMillions data (2004-2025)
 - **Multiple Prediction Methods**: 6 different statistical approaches
 - **Automated Reports**: GitHub Actions automatically generates analysis reports
 - **Web Interface**: Beautiful HTML reports deployed to GitHub Pages
-- **Real-time Updates**: Analysis runs automatically on every push to main branch
+- **Real-time Updates**: Analysis runs automatically on every push to the main branch
 
 ## Analysis Methods
 
@@ -22,7 +22,7 @@ An advanced statistical analysis system for EuroMillions lottery data.
 
 ## GitHub Pages 
 
-Results: `https://elasbandis.github.io/lucky-draft/`
+Results: [here](https://elasbandis.github.io/lucky-draft/)
 
 ## Local Development
 
@@ -82,17 +82,8 @@ The system provides:
 ## Predictions Disclaimer
 
 ⚠️ **Important**: This analysis is for educational and entertainment purposes only. Lottery results are random, and past performance does not predict future outcomes. Please gamble responsibly.
-
-## GitHub Actions Workflow
-
-The automated workflow:
-1. **Triggers**: On push to main branch or manual dispatch
-2. **Analysis**: Runs Python lottery analyzer
-3. **HTML Generation**: Creates formatted web report
-4. **Deployment**: Publishes to GitHub Pages
-5. **Accessibility**: Report available via GitHub Pages URL
-
-## Customization
+ 
+## Customisation
 
 ### Modify Analysis Parameters
 Edit `lottery_analyzer_simple.py` to adjust:
@@ -101,7 +92,7 @@ Edit `lottery_analyzer_simple.py` to adjust:
 - Statistical weights
 
 ### Styling Changes
-Modify `generate_html_report.py` to customize:
+Modify `generate_html_report.py` to customise:
 - CSS styling
 - Report layout
 - Additional statistics
@@ -117,7 +108,3 @@ Modify `generate_html_report.py` to customize:
 ## License
 
 This project is open source and available under the MIT License.
-
----
-
-**Live Report**: Once GitHub Pages is enabled, your analysis report will be automatically updated and available at your GitHub Pages URL after each push to the main branch.
