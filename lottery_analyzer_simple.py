@@ -183,7 +183,7 @@ class EuroMillionsAnalyzer:
         
         return patterns
     
-    def hot_cold_analysis(self, recent_draws=50):
+    def hot_cold_analysis(self, recent_draws=250):
         """Analyze hot and cold numbers based on recent draws."""
         print(f"\n" + "="*50)
         print(f"HOT/COLD ANALYSIS (Last {recent_draws} draws)")
